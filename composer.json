@@ -1,0 +1,14 @@
+{
+	"name": "ocean90/wp-cli-cron-fixer",
+	"description": "Fix broken wp-cron entries.",
+	"homepage": "https://github.com/ocean90/wp-cli-cron-fixer",
+	"license": "GPL-2.0+",
+	"autoload": {
+		"files": [ "wp-cli-quick-command.php" ]
+	},
+	"extras": {
+		"commands": [
+			"cron event fixer"
+		]
+	}
+}
