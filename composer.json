@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/ocean90/wp-cli-cron-fixer",
 	"license": "GPL-2.0+",
 	"autoload": {
-		"files": [ "wp-cli-quick-command.php" ]
+		"files": [ "wp-cli-cron-fixer.php" ]
 	},
 	"extras": {
 		"commands": [
